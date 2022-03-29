@@ -25,6 +25,15 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 
 ![](img/rstudio.png){}
 
+¿ Dònde estoy?
+
+
+```{r}
+getwd()
+
+
+```
+
 
 
 ## Crear proyectos en RStudio
@@ -117,7 +126,7 @@ Creamos objetos que vamos a utlizar en diversas oportunidades. ¿Te animas a cre
 
 ```{r echo=FALSE}
 
-blue<- "344D7E" 
+blue<- "344D7E"   
 fuente<-"Fuente: Elaboración propia"  
 
 ```
@@ -125,7 +134,7 @@ fuente<-"Fuente: Elaboración propia"
 
 ```{r}
 
-# Creamos un  primer objeto  que se llame "blue" que contiene el siguiente valor  "344D7E"
+# Creamos un primer objeto  que se llame "blue" que contiene el siguiente valor  "344D7E"
 
 
 
@@ -177,6 +186,7 @@ original<- read_sheet("15Whz2abOoMbM1FhWTmGk35bugP7M9FHcL8wauu0B46A") # 1° hoja
 ```{r}
 
 # copiamos una parte de la URL y lo pegamos dentro  de las comillas. 
+
 
 #*https://docs.google.com/spreadsheets/d/15Whz2abOoMbM1FhWTmGk35bugP7M9FHcL8wauu0B46A/edit?usp=sharing*  
   
@@ -536,7 +546,7 @@ Llegamos al Final!
 
 Repo para practicar:
 
-[Github](https://github.com/YanelPaulette/IntroduccionR.git)
+[Github](https://github.com/YanelPaulette/Introduccion_R.git)
 
 ------------------------------------------------------------------------
 
