@@ -396,7 +396,7 @@ Cómo quedo nuestro nuevo datset?
 ```
 
 
-¿ Con qué tamaño quedo?
+¿ Cuàl es el nuevo  tamaño?
 
 ```{r}
 
@@ -422,7 +422,7 @@ Tenemos que asignarlo a un objeto nuevo que se llame "nomina":
 
 
 
-```{r}
+```{r eval=FALSE}
 
 # Asigna toda la formula a un objeto de tipo tabla,  llamado "nomina"
 
@@ -442,7 +442,7 @@ Visualicemos cómo quedo la tabla creada:
 
 ```{r}
 
-# Escribi la funciòn para visualizar la tabla
+# Escribir la funciòn para visualizar la tabla
 
 
 
@@ -476,7 +476,7 @@ Te animas a calcular la edad promedio por centro de costo, pero solo de los acti
 
 ```{r}
 
-# Escribí la funciòn para saber la edad promedio de los activos 
+# Escribir la funciòn para saber la edad promedio de los activos 
 
 
 ```
@@ -493,7 +493,7 @@ Para eso podemos usar la función `plot_histogram()`.
 
 ```{r}
 
-# Escribi la funcion y la base de datos a consultar:  
+# Escribir la función y la base de datos a consultar:  
 
 
 
@@ -514,7 +514,7 @@ Otra visualizacion de todas las variables numericas en con la siguiente funciòn
 ```{r}
 
 
-# Escribi la funcion y la base de datos a consultar:  
+# Escribir la funciòn y la base de datos a consultar:  
 
 
 ```
@@ -538,7 +538,7 @@ Repo para practicar:
 
 [Github](https://github.com/YanelPaulette/IntroduccionR.git)
 
-
+------------------------------------------------------------------------
 
 ![grab-landing-page](https://media.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif)
 
