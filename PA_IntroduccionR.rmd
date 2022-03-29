@@ -176,8 +176,7 @@ Usamos la funcion `read_sheet()`, a  la cual tenemos que decirle dónde encontra
 
 ```{r echo=FALSE}
 
-original<- read_sheet("15Whz2abOoMbM1FhWTmGk35bugP7M9FHcL8wauu0B46A") # 1° hoja # Despues borrarlo para la act!
-
+original<- read_sheet("15Whz2abOoMbM1FhWTmGk35bugP7M9FHcL8wauu0B46A") # 1° hoja # 
 
 ```
 
@@ -192,7 +191,7 @@ original<- read_sheet("15Whz2abOoMbM1FhWTmGk35bugP7M9FHcL8wauu0B46A") # 1° hoja
 #*https://docs.google.com/spreadsheets/d/15Whz2abOoMbM1FhWTmGk35bugP7M9FHcL8wauu0B46A/edit?usp=sharing*  
   
 
-#original<- read_sheet("") # 1° hoja # Despues borrarlo para la act!
+#original<- read_sheet("") # 1° hoja 
   
 
 ```
